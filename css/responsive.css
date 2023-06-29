@@ -1,0 +1,26 @@
+/* Min-Max-Width */
+@media (min-width: 992px) and (max-width: 1150px) {
+    
+}
+
+/* Max-Width */
+@media (max-width: 575px) {
+    .domain-section .form-box{
+        padding: 30px 20px;
+    }
+    header .logo{
+        width: 300px;
+    }
+    .domain-section .main-title h1{
+        font-size: 28px;
+    }
+    .domain-section .contact-content h2{
+        font-size: 24px;
+    }
+    .domain-section .contact-content .contact-content-text h3{
+        font-size: 20px;
+    }
+    p,label,span, input[type = placeholder]{
+        font-size: 16px;
+    }
+}
